@@ -4,7 +4,7 @@
 clear
 
 gem install lolcat
-
+apt install toilet -y
 echo ""
 echo ""
 echo " VISIT MY WEBSITE 🔔 " |lolcat
@@ -49,11 +49,7 @@ exit
 
 apt update
 apt upgrade -y
-pkg install ruby -y 
-gem install toilet -y 
-pkg install lolcat
-pip install lolcat
-gem install lolcat
+pkg install ruby -y
 pkg install figlet
 apt install git php openssh curl -y
 pkg install python2 -y 
