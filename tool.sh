@@ -57,7 +57,7 @@ echo -e "\e[1;101m\e[1;97m10\e[1;101m\e[0m\e[1;96m INSTAGRAM-BRUTEFORCE\e[0m\n";
 echo -e "\e[1;101m\e[1;97m11\e[1;101m\e[0m\e[1;96m FIRECRACK\e[0m\n";
 echo -e "\e[1;101m\e[1;97m12\e[1;101m\e[0m\e[1;96m EVIL-EYE\e[0m\n";
 echo -e "\e[1;101m\e[1;97m13\e[1;101m\e[0m\e[1;96m TECH-CRASH\e[0m\n";
-echo -e "\e[1;101m\e[1;97m14\e[1;101m\e[0m\e[1;96m SPEED-X\e[0m\n";
+echo -e "\e[1;101m\e[1;97m14\e[1;101m\e[0m\e[1;96m TBomb\e[0m\n";
 echo -e "\e[1;101m\e[1;97m15\e[1;101m\e[0m\e[1;96m SAYCHEESE\e[0m\n";
 echo -e "\e[1;101m\e[1;97m00\e[1;101m\e[0m\e[1;96m EXIT\e[0m\n";
 echo ""
@@ -69,7 +69,7 @@ read -p "╰──►" pil;
 
 
 case $pil in
-01) clear
+1) clear
 toilet -f standard " Punker-Bhai " -F gay
 git clone https://github.com/Rajkumrdusad/Tool-X
 cd Tool-X
@@ -82,7 +82,7 @@ sh install.aex
 #LUCIFER
 
 
-02) clear
+2) clear
 toilet -f standard " Punker-Bhai " -F gay
 git clone https://github.com/rixon-cochi/Lucifer.git
 cd Lucifer
@@ -98,7 +98,7 @@ bash instacracker.sh
 #WEEMAN
 
 
-03) clear
+3) clear
 toilet -f standard " Punker-Bhai " -F gay
 git clone https://github.com/evait-security/weeman.git
 cd weeman
@@ -111,7 +111,8 @@ python2 weeman.py
 #RED_HAWK
 
 
-04) clear
+0
+4) clear
 toilet -f standard " Punker-Bhai " -F gay
 git clone https://github.com/Tuhinshubhra/RED_HAWK
 cd RED_HAWK
@@ -124,7 +125,7 @@ php rhawk.php
 #TECH-COCHI
 
 
-05) clear
+5) clear
 toilet -f standard " Punker-Bhai " -F gay
 git clone https://github.com/rixon-cochi/tech-hack.git
 cd tech-hack
@@ -139,7 +140,7 @@ bash cracker.sh
 #BRUTEFORCE_FACEBOOK
 
 
-06) clear
+6) clear
 toilet -f standard " Punker-Bhai " -F gay
 git clone https://github.com/IqbalzNoobs/fb-brute
 cd fb-brute
@@ -152,7 +153,7 @@ python2 brute.py
 #BOT_KONEN_FACEBOOK
 
 
-07) clear
+7) clear
 toilet -f standard " Punker-Bhai " -F gay
 pip2 install mechanize
 git clone https://github.com/Senitopeng/Botkomena.git
@@ -166,7 +167,7 @@ python2 botkomena.py
 #TERMUX-BASIC-PACKAGE
 
 
-08) clear
+8) clear
 toilet -f standard " Punker-Bhai " -F gay
 https://github.com/rixon-cochi/basic-pkg
 cd basic-pkg
@@ -179,7 +180,7 @@ bash basic.sh
 #OSIF
 
 
-09) clear
+9) clear
 toilet -f standard " Punker-Bhai " -F gay
 git clone https://github.com/ciku370/OSIF
 cd OSIF
@@ -247,7 +248,7 @@ php Whatsbot.php
 ;;
 
 
-#SPEED-X
+#TBomb
 
 
 14) clear
