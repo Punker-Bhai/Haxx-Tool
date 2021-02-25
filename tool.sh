@@ -11,15 +11,15 @@ echo ""
 echo -e "\e[101m Press Enter \e[0m"
 read a1
 
-echo "Loading..." | lolcat
+echo "Loading..." |lolcat
 sleep 2
 clear
 
-toilet -f future "HACKERSPUNK" | lolcat
-echo "-------------------------------------------------------" | lolcat
+toilet -f future "HACKERSPUNK" |lolcat
+echo "-------------------------------------------------------" |lolcat
 echo   "Created  : PUNKER-BHAI $white" |lolcat
 echo   "Contact  : Instagram.com/myquotes.com $white" |lolcat
-echo "-------------------------------------------------------" | lolcat
+echo "-------------------------------------------------------" |lolcat
 ###################################################
 # CTRL + C
 ###################################################
@@ -31,11 +31,11 @@ echo ""
 echo  "⚠️NOT FOR ILLEGEL USE⚠️"
 sleep 1
 echo ""
-echo "HACKERSPUNK" | lolcat
+echo "HACKERSPUNK" |lolcat
 echo ""
-echo "BYE BYE 👋👋..." | lolcat
+echo "BYE BYE 👋👋..." |lolcat
 echo ""
-echo "COME BACK 🔜" | lolcat
+echo "COME BACK 🔜" |lolcat
 sleep 1
 exit
 }
@@ -274,11 +274,11 @@ bash saycheese.sh
 ;;
 
 
-00) echo "Coded By:HACKERSPUNK" | lolcat
+00) echo "Coded By:HACKERSPUNK" |lolcat
 exit
 ;;
 
-*) echo "Invalid Option Chosen" | lolcat
+*) echo "Invalid Option Chosen" |lolcat
 esac
 done
 done
