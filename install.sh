@@ -3,9 +3,11 @@
 
 clear
 
+gem install lolcat
+
 echo ""
 echo ""
-echo " VISIT MY WEBSITE 🔔 " | lolcat
+echo " VISIT MY WEBSITE 🔔 " |lolcat
 xdg-open https://punkers.business.site/
 echo ""
 
@@ -15,23 +17,23 @@ read a1
 sleep 1
 clear
 
-echo "Loading..." | lolcat
+echo "Loading..." |lolcat
 sleep 1
 clear
 
-echo "Loading..." | lolcat
+echo "Loading..." |lolcat
 sleep 1
 clear
 
-echo "Loading..." | lolcat
+echo "Loading..." |lolcat
 sleep 1
 clear
 
-toilet -f future "HACKERSPUNK" | lolcat
-echo "-------------------------------------------------------" | lolcat
+toilet -f future "HACKERSPUNK" |lolcat
+echo "-------------------------------------------------------" |lolcat
 echo   "Created  : PUNKER-BHAI $white" |lolcat
 echo   "Contact  : Instagram.com/myquotes.com $white" |lolcat
-echo "-------------------------------------------------------" | lolcat
+echo "-------------------------------------------------------" |lolcat
 
 trap ctrl_c INT
 ctrl_c() {
@@ -40,7 +42,7 @@ echo  "Detected, Trying To Exit  ... "
 echo ""
 sleep 1
 echo ""
-echo "HACKERSPUNK" | lolcat
+echo "HACKERSPUNK" |lolcat
 sleep 1
 exit
 }
@@ -50,6 +52,8 @@ apt upgrade -y
 pkg install ruby -y 
 gem install toilet -y 
 pkg install lolcat
+pip install lolcat
+gem install lolcat
 pkg install figlet
 apt install git php openssh curl -y
 pkg install python2 -y 
@@ -58,7 +62,7 @@ pip2 install mechanize
 pip2 install --upgrade pip
 
 echo ""
-echo "Coded By Punker-Bhai" | lolcat
-echo "________________________" | lolcat
+echo "Coded By Punker-Bhai" |lolcat
+echo "________________________" |lolcat
 sleep 10
 echo ""
